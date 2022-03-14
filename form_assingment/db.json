@@ -1,0 +1,31 @@
+{
+  "list": [
+    {
+      "name": "paritosh",
+      "age": "24",
+      "address": "krishna colony",
+      "department": "",
+      "salary": "65000",
+      "marital": "of",
+      "id": 1
+    },
+    {
+      "name": "ashutosh",
+      "age": "26",
+      "address": "krishna colony",
+      "department": "business",
+      "salary": "95000",
+      "marital": "of",
+      "id": 2
+    },
+    {
+      "name": "abhishek",
+      "age": "26",
+      "address": "baser colony",
+      "department": "doctor",
+      "salary": "10000",
+      "marital": "on",
+      "id": 3
+    }
+  ]
+}
